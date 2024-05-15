@@ -37,3 +37,17 @@ number from 1 to 1000.
 ```
 ![image](https://github.com/smyy96/Coderbyte/assets/62007900/4db34038-bcb2-4cb8-84a7-e07ae27fbdf2)
 
+
+```
+Run Length
+
+Have the function RunLength(str) take the str parameter being passed and
+ return a compressed version of the string using the Run-length encoding
+algorithm. This algorithm works by taking the occurrence of each repeating
+ character and outputting that number along with a single character of the
+ repeating sequence. For example: "wwwggopp" would return 3w2g1o2p. The
+string will not contain any numbers, punctuation, or symbols.
+
+```
+
+![image](https://github.com/smyy96/Coderbyte/assets/62007900/dd173139-9fdb-4543-abcd-cc3a5a9f9233)
