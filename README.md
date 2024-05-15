@@ -40,7 +40,6 @@ number from 1 to 1000.
 
 ```
 Run Length
-
 Have the function RunLength(str) take the str parameter being passed and
  return a compressed version of the string using the Run-length encoding
 algorithm. This algorithm works by taking the occurrence of each repeating
@@ -51,3 +50,19 @@ string will not contain any numbers, punctuation, or symbols.
 ```
 
 ![image](https://github.com/smyy96/Coderbyte/assets/62007900/dd173139-9fdb-4543-abcd-cc3a5a9f9233)
+
+
+```
+Simple Mode
+Have the function SimpleMode(arr) take the array of numbers stored in
+arr and return the number that appears most frequently (the mode). For
+example: if arr contains [10, 4, 5, 2, 4] the output should be 4. If
+there is more than one mode return the one that appeared in the array
+first (ie. [5, 10, 10, 6, 5] should return 5 because it appeared first).
+If there is no mode return -1. The array will not be empty.
+
+```
+
+![image](https://github.com/smyy96/Coderbyte/assets/62007900/6836e6a2-7024-4c30-a091-5bba1544e3eb)
+
+
