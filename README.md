@@ -35,3 +35,4 @@ For example: if the input is 4 then your program should return 10 because
  1 + 2 + 3 + 4 = 10. For the test cases, the parameter num will be any
 number from 1 to 1000.
 ```
+![image](https://github.com/smyy96/Coderbyte/assets/62007900/bde1281b-d3fe-49b1-948b-4d1859097239)
